@@ -1,0 +1,10 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Ismael Mendoza",
+  "email": "imendoza@umich.edu",
+  "friendly_name": "Blending ToolKit",
+  "github_user": "ismael-mendoza",
+  "package_name": "btk",
+  "project_name": "BlendingToolKit",
+  "version": "0.0.0"
+}

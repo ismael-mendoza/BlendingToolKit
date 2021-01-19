@@ -1,6 +1,7 @@
 The MIT License (MIT)
+=====================
 
-Copyright (c) 2014 by the BlendingToolKit contributors on GitHub
+Copyright (c) 2020 by the BlendingToolKit contributors on GitHub
 https://github.com/LSSTDESC/BlendingToolKit
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
